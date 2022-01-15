@@ -2,7 +2,7 @@
 
 This is the code of the MC-HDSet matching algorithm proposed in
 
-Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph matching via game-theoretic hypergraph clustering. Pattern Recognition, 2022.
+Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph matching via game-theoretic hypergraph clustering. Pattern Recognition, vol. 125, 2022.
 
 Dependency
 
@@ -18,5 +18,5 @@ Citation
 
 If you use this code in your research, we appreciate it if you cite the following paper:
 
-Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph matching via game-theoretic hypergraph clustering. Pattern Recognition, 2022.
+Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph matching via game-theoretic hypergraph clustering. Pattern Recognition, vol. 125, 2022.
 
